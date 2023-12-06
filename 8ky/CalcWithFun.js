@@ -66,5 +66,3 @@ function dividedBy(oper1) {
     return Math.floor(oper2 / oper1);
   };
 }
-
-console.log(nine(dividedBy(five())));
